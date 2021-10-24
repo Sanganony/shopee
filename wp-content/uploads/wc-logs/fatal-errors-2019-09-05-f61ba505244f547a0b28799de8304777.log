@@ -1,0 +1,18 @@
+2019-09-05T02:34:10+00:00 CRITICAL Object of class WP_Error could not be converted to string in D:\xampp\htdocs\du-an-thanh\babi.vn\wp-content\themes\vpw_theme\inc\widget.php on line 108
+
+2019-09-05T02:38:19+00:00 CRITICAL Object of class WP_Error could not be converted to string in D:\xampp\htdocs\du-an-thanh\babi.vn\wp-content\themes\vpw_theme\inc\widget.php on line 108
+
+2019-09-05T02:38:23+00:00 CRITICAL Object of class WP_Error could not be converted to string in D:\xampp\htdocs\du-an-thanh\babi.vn\wp-content\themes\vpw_theme\inc\widget.php on line 108
+
+2019-09-05T02:38:25+00:00 CRITICAL Object of class WP_Error could not be converted to string in D:\xampp\htdocs\du-an-thanh\babi.vn\wp-content\themes\vpw_theme\inc\widget.php on line 108
+
+2019-09-05T02:59:46+00:00 CRITICAL Object of class WP_Error could not be converted to string in D:\xampp\htdocs\du-an-thanh\babi.vn\wp-content\themes\vpw_theme\inc\widget.php on line 120
+
+2019-09-05T09:27:59+00:00 CRITICAL syntax error, unexpected '=' in D:\xampp\htdocs\du-an-thanh\babi.vn\wp-content\themes\vpw_theme\functions.php on line 500
+
+2019-09-05T09:29:05+00:00 CRITICAL syntax error, unexpected '=' in D:\xampp\htdocs\du-an-thanh\babi.vn\wp-content\themes\vpw_theme\functions.php on line 513
+
+2019-09-05T09:29:24+00:00 CRITICAL syntax error, unexpected '=' in D:\xampp\htdocs\du-an-thanh\babi.vn\wp-content\themes\vpw_theme\functions.php on line 513
+
+2019-09-05T13:22:01+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE) in D:\xampp\htdocs\du-an-thanh\babi.vn\wp-content\themes\vpw_theme\archive.php on line 53
+

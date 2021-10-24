@@ -1,0 +1,20 @@
+2020-04-02T03:36:06+00:00 CRITICAL syntax error, unexpected '.' in D:\xampp\htdocs\du-an-thanh\tienichthongminhht.com\wp-content\themes\flatsome-child\functions.php on line 33
+
+2020-04-02T03:41:39+00:00 CRITICAL syntax error, unexpected '.' in D:\xampp\htdocs\du-an-thanh\tienichthongminhht.com\wp-content\themes\flatsome-child\functions.php on line 193
+
+2020-04-02T03:41:40+00:00 CRITICAL syntax error, unexpected '.' in D:\xampp\htdocs\du-an-thanh\tienichthongminhht.com\wp-content\themes\flatsome-child\functions.php on line 193
+
+2020-04-02T03:43:22+00:00 CRITICAL syntax error, unexpected '.' in D:\xampp\htdocs\du-an-thanh\tienichthongminhht.com\wp-content\themes\flatsome-child\functions.php on line 193
+
+2020-04-02T03:43:28+00:00 CRITICAL syntax error, unexpected ''' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in D:\xampp\htdocs\du-an-thanh\tienichthongminhht.com\wp-content\themes\flatsome-child\functions.php on line 198
+
+2020-04-02T03:43:28+00:00 CRITICAL syntax error, unexpected ''' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in D:\xampp\htdocs\du-an-thanh\tienichthongminhht.com\wp-content\themes\flatsome-child\functions.php on line 198
+
+2020-04-02T03:43:29+00:00 CRITICAL syntax error, unexpected ''' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in D:\xampp\htdocs\du-an-thanh\tienichthongminhht.com\wp-content\themes\flatsome-child\functions.php on line 198
+
+2020-04-02T03:50:40+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) in D:\xampp\htdocs\du-an-thanh\tienichthongminhht.com\wp-content\themes\flatsome-child\functions.php on line 185
+
+2020-04-02T03:51:03+00:00 CRITICAL syntax error, unexpected '}' in D:\xampp\htdocs\du-an-thanh\tienichthongminhht.com\wp-content\themes\flatsome-child\functions.php on line 200
+
+2020-04-02T03:51:23+00:00 CRITICAL Call to undefined function get_single_cat_title() in D:\xampp\htdocs\du-an-thanh\tienichthongminhht.com\wp-content\themes\flatsome-child\functions.php on line 201
+

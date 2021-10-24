@@ -1,0 +1,20 @@
+2019-11-22T02:01:12+00:00 CRITICAL syntax error, unexpected 'add_action' (T_STRING), expecting function (T_FUNCTION) in D:\xampp\htdocs\du-an-chi\template-rose.bizwebvietnam.net\wp-content\themes\vpw_theme\inc\widget.php on line 343
+
+2019-11-22T02:03:26+00:00 CRITICAL Object of class WP_Term could not be converted to string in D:\xampp\htdocs\du-an-chi\template-rose.bizwebvietnam.net\wp-includes\class-wp-query.php on line 763
+
+2019-11-22T02:32:44+00:00 CRITICAL Object of class WP_Term could not be converted to string in D:\xampp\htdocs\du-an-chi\template-rose.bizwebvietnam.net\wp-includes\class-wp-query.php on line 763
+
+2019-11-22T02:53:44+00:00 CRITICAL Object of class WP_Term could not be converted to string in D:\xampp\htdocs\du-an-chi\template-rose.bizwebvietnam.net\wp-includes\class-wp-query.php on line 763
+
+2019-11-22T03:18:24+00:00 CRITICAL Object of class WP_Term could not be converted to string in D:\xampp\htdocs\du-an-chi\template-rose.bizwebvietnam.net\wp-includes\class-wp-query.php on line 763
+
+2019-11-22T04:20:39+00:00 CRITICAL Object of class WP_Term could not be converted to string in D:\xampp\htdocs\du-an-chi\template-rose.bizwebvietnam.net\wp-includes\class-wp-query.php on line 763
+
+2019-11-22T04:24:40+00:00 CRITICAL Object of class WP_Term could not be converted to string in D:\xampp\htdocs\du-an-chi\template-rose.bizwebvietnam.net\wp-includes\class-wp-query.php on line 763
+
+2019-11-22T04:24:48+00:00 CRITICAL Object of class WP_Term could not be converted to string in D:\xampp\htdocs\du-an-chi\template-rose.bizwebvietnam.net\wp-includes\class-wp-query.php on line 763
+
+2019-11-22T04:35:01+00:00 CRITICAL Object of class WP_Term could not be converted to string in D:\xampp\htdocs\du-an-chi\template-rose.bizwebvietnam.net\wp-includes\class-wp-query.php on line 763
+
+2019-11-22T12:03:26+00:00 CRITICAL syntax error, unexpected '<' in D:\xampp\htdocs\du-an-tai\dailyduabentre.com\wp-content\themes\vpw_theme\functions.php on line 175
+

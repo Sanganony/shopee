@@ -1,0 +1,16 @@
+2020-03-26T08:58:15+00:00 CRITICAL Call to undefined function basix_getPostViews() in D:\xampp\htdocs\du-an-thanh\demxanh.com\wp-content\themes\flatsome-child\functions.php on line 9
+
+2020-03-26T08:58:21+00:00 CRITICAL Call to undefined function basix_getPostViews() in D:\xampp\htdocs\du-an-thanh\demxanh.com\wp-content\themes\flatsome-child\functions.php on line 9
+
+2020-03-26T10:19:41+00:00 CRITICAL Cannot redeclare header() in D:\xampp\htdocs\du-an-thanh\demxanh.com\wp-content\themes\flatsome-child\functions.php on line 12
+
+2020-03-26T10:20:13+00:00 CRITICAL Cannot redeclare header() in D:\xampp\htdocs\du-an-thanh\demxanh.com\wp-content\themes\flatsome-child\functions.php on line 15
+
+2020-03-26T10:20:21+00:00 CRITICAL syntax error, unexpected end of file in D:\xampp\htdocs\du-an-thanh\demxanh.com\wp-content\themes\flatsome-child\functions.php on line 17
+
+2020-03-26T10:20:37+00:00 CRITICAL Cannot redeclare header() in D:\xampp\htdocs\du-an-thanh\demxanh.com\wp-content\themes\flatsome-child\functions.php on line 15
+
+2020-03-26T10:20:41+00:00 CRITICAL Cannot redeclare header() in D:\xampp\htdocs\du-an-thanh\demxanh.com\wp-content\themes\flatsome-child\functions.php on line 15
+
+2020-03-26T10:30:02+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE) in D:\xampp\htdocs\du-an-thanh\demxanh.com\wp-content\themes\flatsome\inc\shortcodes\blog_posts.php on line 291
+

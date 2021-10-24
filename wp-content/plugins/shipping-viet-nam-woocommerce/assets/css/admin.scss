@@ -1,0 +1,219 @@
+.svw-row {
+  margin-right: -6px;
+  margin-left: -6px;
+}
+.svw-row:before, .svw-row:after {
+  display: table;
+  content: " ";
+}
+.svw-row:after {
+  clear: both;
+}
+
+.svw-col-1,
+.svw-col-2,
+.svw-col-3,
+.svw-col-4,
+.svw-col-5,
+.svw-col-6,
+.svw-col-7,
+.svw-col-8,
+.svw-col-9,
+.svw-col-10,
+.svw-col-11,
+.svw-col-12 {
+  float: left;
+  padding-left: 6px;
+  padding-right: 6px;
+}
+
+.svw-col-12 {
+  width: 100%;
+}
+
+.svw-col-11 {
+  width: 91.66666666666666%;
+}
+
+.svw-col-10 {
+  width: 83.33333333333334%;
+}
+
+.svw-col-9 {
+  width: 75%;
+}
+
+.svw-col-8 {
+  width: 66.66666666666666%;
+}
+
+.svw-col-7 {
+  width: 58.333333333333336%;
+}
+
+.svw-col-6 {
+  width: 50%;
+}
+
+.svw-col-5 {
+  width: 41.66666666666667%;
+}
+
+.svw-col-4 {
+  width: 33.33333333333333%;
+}
+
+.svw-col-3 {
+  width: 25%;
+}
+
+.svw-col-2 {
+  width: 16.666666666666664%;
+}
+
+.svw-col-1 {
+  width: 8.333333333333332%;
+}
+
+.svw-clearfix:before, .svw-clearfix:after {
+  display: table;
+  content: " ";
+}
+.svw-clearfix:after {
+  clear: both;
+}
+
+.svw-pull-right {
+  float: right !important;
+}
+
+.svw-pull-left {
+  float: left !important;
+}
+
+.svw-content-box, .svw-row {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+}
+
+.svw-border-box, .svw-col-1,
+.svw-col-2,
+.svw-col-3,
+.svw-col-4,
+.svw-col-5,
+.svw-col-6,
+.svw-col-7,
+.svw-col-8,
+.svw-col-9,
+.svw-col-10,
+.svw-col-11,
+.svw-col-12 {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+#create_order {
+    .title {
+        padding-top: 10px;
+        text-align: center;
+        font-weight: bold;
+        font-size: 15px;
+        text-transform: uppercase;
+        padding-bottom: 10px
+    }
+    input, select, textarea {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .item {
+        padding-bottom: 5px;
+    }
+    .desc {
+        font-style: italic;
+        color: red;
+        padding-bottom: 10px;
+    }
+    #svw_create_order_ghn, #svw_create_order_ghtk {
+        text-align: center;
+        width: 100%;
+        text-transform: uppercase;
+        margin-top: 15px;
+    }
+    .svw-response {
+        text-align: center;
+        font-size: 20px;
+        color: red;
+        margin-top: 10px;
+        text-transform: uppercase;
+    }
+}
+.svw-exits, .svw-create-order {
+    text-align: center;
+    .button {
+        display: inline-block;
+        height: 40px;
+        line-height: 40px;
+        position: relative;
+        background-color:rgb(41,127,184);
+        color:rgb(255,255,255);
+        text-decoration: none;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        margin-bottom: 15px;
+        cursor: normal;
+        border-radius: 5px;
+        -moz-border-radius: 5px;
+        -webkit-border-radius: 5px;
+        text-shadow:0px 1px 0px rgba(0,0,0,0.5);
+        -ms-filter:"progid:DXImageTransform.Microsoft.dropshadow(OffX=0,OffY=1,Color=#ff123852,Positive=true)";zoom:1;
+        filter:progid:DXImageTransform.Microsoft.dropshadow(OffX=0,OffY=1,Color=#ff123852,Positive=true);
+        -moz-box-shadow:0px 2px 2px rgba(0,0,0,0.2);
+        -webkit-box-shadow:0px 2px 2px rgba(0,0,0,0.2);
+        box-shadow:0px 2px 2px rgba(0,0,0,0.2);
+        -ms-filter:"progid:DXImageTransform.Microsoft.dropshadow(OffX=0,OffY=2,Color=#33000000,Positive=true)";
+        filter:progid:DXImageTransform.Microsoft.dropshadow(OffX=0,OffY=2,Color=#33000000,Positive=true);
+    }
+    .button:active {
+        margin-top: 2px;
+        margin-bottom: 13px;
+        -moz-box-shadow:0px 1px 0px rgba(255,255,255,0.5);
+        -webkit-box-shadow:0px 1px 0px rgba(255,255,255,0.5);
+        box-shadow:0px 1px 0px rgba(255,255,255,0.5);
+        -ms-filter:"progid:DXImageTransform.Microsoft.dropshadow(OffX=0,OffY=1,Color=#ccffffff,Positive=true)";
+        filter:progid:DXImageTransform.Microsoft.dropshadow(OffX=0,OffY=1,Color=#ccffffff,Positive=true);
+    }
+
+    .button.orange {
+        background: #FF7F00;
+        &:hover {
+            background: #FF7F00;
+            color:rgb(255,255,255);
+        }
+    }
+
+    .button.purple {
+        background: #8e44ad;
+        &:hover {
+            background: #8e44ad;
+            color:rgb(255,255,255);
+        }
+    }
+
+    .button.turquoise {
+        background: #1abc9c;
+        &:hover {
+            background: #1abc9c;
+            color:rgb(255,255,255);
+        }
+    }
+
+    .button.red {
+        background: #e74c3c;
+        &:hover {
+            background: #e74c3c;
+            color:rgb(255,255,255);
+        }
+    }
+}

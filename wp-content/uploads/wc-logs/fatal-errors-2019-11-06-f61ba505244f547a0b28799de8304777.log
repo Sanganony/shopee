@@ -1,0 +1,4 @@
+2019-11-06T02:52:30+00:00 CRITICAL syntax error, unexpected '}' in D:\xampp\htdocs\du-an-chi\chongthamvietthai.com\wp-content\themes\vpw_theme\inc\widget.php on line 249
+
+2019-11-06T02:54:06+00:00 CRITICAL Object of class WP_Error could not be converted to string in D:\xampp\htdocs\du-an-chi\chongthamvietthai.com\wp-content\themes\vpw_theme\inc\widget.php on line 158
+

@@ -1,0 +1,1188 @@
+{
+    "RPT": {
+        "ScanTime": "8.084 sec.",
+        "ScanFile": "shopee_6ddab623c822ebe42147_20200406052525_scan.json",
+        "ScanCreated": "2020-04-06 05:25:37",
+        "ScanPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/backups-dup-pro\/tmp\/shopee_6ddab623c822ebe42147_20200406052525_scan.json"
+    },
+    "SRV": {
+        "Brand": {
+            "LogoAttachmentExists": false,
+            "LogoCount": 0,
+            "LogoFinded": 0,
+            "LogoImageExists": true,
+            "LogoImages": [],
+            "Name": "Default",
+            "Notes": "The default content used when a brand is not defined"
+        },
+        "PHP": {
+            "websrv": true,
+            "openbase": true,
+            "maxtime": true,
+            "openssl": true,
+            "mysqli": true,
+            "allowurlfopen": true,
+            "curlavailable": true,
+            "version": true,
+            "ALL": "Good"
+        },
+        "WP": {
+            "version": true,
+            "core": true,
+            "ismu": false,
+            "ismuplus": false,
+            "ALL": "Good"
+        }
+    },
+    "ARC": {
+        "Size": "127.49MB",
+        "DirCount": "1,063",
+        "FileCount": "8,097",
+        "FullCount": "9,160",
+        "USize": 133677784,
+        "UDirCount": 1063,
+        "UFileCount": 8097,
+        "UFullCount": 9160,
+        "WarnFileCount": 0,
+        "WarnDirCount": 0,
+        "UnreadableDirCount": 0,
+        "UnreadableFileCount": 0,
+        "FilterDirsAll": [
+            "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/ai1wm-backups",
+            "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/backups-dup-pro",
+            "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/backupwordpress",
+            "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/cache",
+            "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/content\/cache",
+            "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/contents\/cache",
+            "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/infinitewp\/backups",
+            "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/managewp\/backups",
+            "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/old-cache",
+            "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+            "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/plugins\/really-simple-captcha\/tmp",
+            "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/plugins\/wordfence\/tmp",
+            "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/updraft",
+            "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/uploads\/aiowps_backups",
+            "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/uploads\/backup-guard",
+            "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/uploads\/backupbuddy_backups",
+            "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/uploads\/backupbuddy_temp",
+            "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/uploads\/ithemes-security\/backups",
+            "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/uploads\/mainwp\/backup",
+            "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/uploads\/pb_backupbuddy",
+            "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/uploads\/snapshots",
+            "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/uploads\/sucuri",
+            "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/uploads\/wp-clone",
+            "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/uploads\/wp_all_backup",
+            "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/uploads\/wpbackitup_backups",
+            "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/wfcache",
+            "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/wishlist-backup",
+            "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-snapshots"
+        ],
+        "FilterFilesAll": [
+            ".DS_Store",
+            "D:\/xampp\/htdocs\/mautheme\/shopee\/.htaccess",
+            "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-config.php",
+            "dbcache",
+            "debug_log",
+            "error.log",
+            "error_log",
+            "objectcache",
+            "pgcache",
+            "ws_ftp.log"
+        ],
+        "FilterExtsAll": [],
+        "FilterInfo": {
+            "Dirs": {
+                "Warning": [],
+                "Unreadable": [],
+                "AddonSites": [],
+                "Core": [
+                    "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/backups-dup-pro"
+                ],
+                "Global": [
+                    "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-snapshots",
+                    "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/ai1wm-backups",
+                    "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/backupwordpress",
+                    "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/content\/cache",
+                    "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/contents\/cache",
+                    "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/infinitewp\/backups",
+                    "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/managewp\/backups",
+                    "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/old-cache",
+                    "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+                    "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/updraft",
+                    "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/wishlist-backup",
+                    "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/wfcache",
+                    "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/plugins\/really-simple-captcha\/tmp",
+                    "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/plugins\/wordfence\/tmp",
+                    "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/cache",
+                    "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/uploads\/aiowps_backups",
+                    "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/uploads\/backupbuddy_temp",
+                    "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/uploads\/backupbuddy_backups",
+                    "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/uploads\/ithemes-security\/backups",
+                    "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/uploads\/mainwp\/backup",
+                    "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/uploads\/pb_backupbuddy",
+                    "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/uploads\/snapshots",
+                    "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/uploads\/sucuri",
+                    "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/uploads\/wp-clone",
+                    "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/uploads\/wp_all_backup",
+                    "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/uploads\/wpbackitup_backups",
+                    "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content\/uploads\/backup-guard"
+                ],
+                "Instance": []
+            },
+            "Files": {
+                "Warning": [],
+                "Unreadable": [],
+                "Size": [],
+                "Core": [],
+                "Global": [
+                    "error_log",
+                    "error.log",
+                    "debug_log",
+                    "ws_ftp.log",
+                    "dbcache",
+                    "pgcache",
+                    "objectcache",
+                    ".DS_Store",
+                    "D:\/xampp\/htdocs\/mautheme\/shopee\/.htaccess",
+                    "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-config.php"
+                ],
+                "Instance": []
+            },
+            "Exts": {
+                "Core": [],
+                "Global": [],
+                "Instance": []
+            },
+            "TreeSize": {
+                "text": "D:\/xampp\/htdocs\/mautheme\/shopee",
+                "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee",
+                "type": "folder",
+                "state": {
+                    "opened": true,
+                    "disabled": false,
+                    "selected": false,
+                    "checked": false,
+                    "checkbox_disabled": false
+                },
+                "children": [
+                    {
+                        "text": "wp-admin",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-admin",
+                        "type": "folder",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": true,
+                        "li_attr": {
+                            "class": " core-node"
+                        },
+                        "a_attr": {
+                            "title": "Core WordPress directories should not be filtered. Use caution when excluding files."
+                        }
+                    },
+                    {
+                        "text": "wp-content",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content",
+                        "type": "folder",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": true,
+                        "li_attr": {
+                            "class": " core-node"
+                        },
+                        "a_attr": {
+                            "title": "Core WordPress directories should not be filtered. Use caution when excluding files."
+                        }
+                    },
+                    {
+                        "text": "wp-includes",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-includes",
+                        "type": "folder",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": true,
+                        "li_attr": {
+                            "class": " core-node"
+                        },
+                        "a_attr": {
+                            "title": "Core WordPress directories should not be filtered. Use caution when excluding files."
+                        }
+                    },
+                    {
+                        "text": ".htaccess",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/.htaccess",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": true
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": " filtered-node"
+                        },
+                        "a_attr": {
+                            "title": "This file is filtered."
+                        }
+                    },
+                    {
+                        "text": "index.php",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/index.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "license.txt",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/license.txt",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "readme.html",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/readme.html",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-activate.php",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-activate.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-blog-header.php",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-blog-header.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-comments-post.php",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-comments-post.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-config-sample.php",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-config-sample.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-config.php",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-config.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": true
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": " filtered-node"
+                        },
+                        "a_attr": {
+                            "title": "This file is filtered."
+                        }
+                    },
+                    {
+                        "text": "wp-cron.php",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-cron.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-links-opml.php",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-links-opml.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-load.php",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-load.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-login.php",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-login.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-mail.php",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-mail.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-settings.php",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-settings.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-signup.php",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-signup.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-trackback.php",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-trackback.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "xmlrpc.php",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/xmlrpc.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    }
+                ],
+                "li_attr": {
+                    "class": " root-node core-node"
+                },
+                "a_attr": {
+                    "title": "Core WordPress directories should not be filtered. Use caution when excluding files."
+                }
+            },
+            "TreeWarning": {
+                "text": "D:\/xampp\/htdocs\/mautheme\/shopee",
+                "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee",
+                "type": "folder",
+                "state": {
+                    "opened": true,
+                    "disabled": false,
+                    "selected": false,
+                    "checked": false,
+                    "checkbox_disabled": false
+                },
+                "children": [
+                    {
+                        "text": "wp-admin",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-admin",
+                        "type": "folder",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": true,
+                        "li_attr": {
+                            "class": " core-node"
+                        },
+                        "a_attr": {
+                            "title": "Core WordPress directories should not be filtered. Use caution when excluding files."
+                        }
+                    },
+                    {
+                        "text": "wp-content",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-content",
+                        "type": "folder",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": true,
+                        "li_attr": {
+                            "class": " core-node"
+                        },
+                        "a_attr": {
+                            "title": "Core WordPress directories should not be filtered. Use caution when excluding files."
+                        }
+                    },
+                    {
+                        "text": "wp-includes",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-includes",
+                        "type": "folder",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": true,
+                        "li_attr": {
+                            "class": " core-node"
+                        },
+                        "a_attr": {
+                            "title": "Core WordPress directories should not be filtered. Use caution when excluding files."
+                        }
+                    },
+                    {
+                        "text": ".htaccess",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/.htaccess",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": true
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": " filtered-node"
+                        },
+                        "a_attr": {
+                            "title": "This file is filtered."
+                        }
+                    },
+                    {
+                        "text": "index.php",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/index.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "license.txt",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/license.txt",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "readme.html",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/readme.html",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-activate.php",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-activate.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-blog-header.php",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-blog-header.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-comments-post.php",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-comments-post.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-config-sample.php",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-config-sample.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-config.php",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-config.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": true
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": " filtered-node"
+                        },
+                        "a_attr": {
+                            "title": "This file is filtered."
+                        }
+                    },
+                    {
+                        "text": "wp-cron.php",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-cron.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-links-opml.php",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-links-opml.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-load.php",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-load.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-login.php",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-login.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-mail.php",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-mail.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-settings.php",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-settings.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-signup.php",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-signup.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "wp-trackback.php",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/wp-trackback.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    },
+                    {
+                        "text": "xmlrpc.php",
+                        "fullPath": "D:\/xampp\/htdocs\/mautheme\/shopee\/xmlrpc.php",
+                        "type": "file",
+                        "state": {
+                            "opened": false,
+                            "disabled": false,
+                            "selected": false,
+                            "checked": false,
+                            "checkbox_disabled": false
+                        },
+                        "children": null,
+                        "li_attr": {
+                            "class": ""
+                        },
+                        "a_attr": []
+                    }
+                ],
+                "li_attr": {
+                    "class": " root-node core-node"
+                },
+                "a_attr": {
+                    "title": "Core WordPress directories should not be filtered. Use caution when excluding files."
+                }
+            }
+        },
+        "Status": {
+            "Size": "Good",
+            "Names": "Good",
+            "Big": "Good",
+            "AddonSites": "Good",
+            "UnreadableItems": "Good"
+        },
+        "RecursiveLinks": [],
+        "UnreadableItems": []
+    },
+    "DB": {
+        "Status": {
+            "Success": true,
+            "Size": "Good",
+            "Rows": "Good"
+        },
+        "Size": "4.97MB",
+        "Rows": "3,500",
+        "TableCount": 39,
+        "TableList": {
+            "vpw_commentmeta": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "vpw_comments": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "112KB",
+                "USize": 114688
+            },
+            "vpw_duplicator_pro_entities": {
+                "Case": 0,
+                "Rows": "5",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "vpw_duplicator_pro_packages": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "vpw_itsec_distributed_storage": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "vpw_itsec_fingerprints": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "vpw_itsec_geolocation_cache": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "vpw_itsec_lockouts": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "96KB",
+                "USize": 98304
+            },
+            "vpw_itsec_logs": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "160KB",
+                "USize": 163840
+            },
+            "vpw_itsec_opaque_tokens": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "vpw_itsec_temp": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "80KB",
+                "USize": 81920
+            },
+            "vpw_links": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "vpw_options": {
+                "Case": 0,
+                "Rows": "451",
+                "Size": "1.09MB",
+                "USize": 1146880
+            },
+            "vpw_postmeta": {
+                "Case": 0,
+                "Rows": "1,599",
+                "Size": "448KB",
+                "USize": 458752
+            },
+            "vpw_posts": {
+                "Case": 0,
+                "Rows": "305",
+                "Size": "1.58MB",
+                "USize": 1654784
+            },
+            "vpw_term_relationships": {
+                "Case": 0,
+                "Rows": "758",
+                "Size": "80KB",
+                "USize": 81920
+            },
+            "vpw_term_taxonomy": {
+                "Case": 0,
+                "Rows": "64",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "vpw_termmeta": {
+                "Case": 0,
+                "Rows": "134",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "vpw_terms": {
+                "Case": 0,
+                "Rows": "64",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "vpw_usermeta": {
+                "Case": 0,
+                "Rows": "60",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "vpw_users": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "64KB",
+                "USize": 65536
+            },
+            "vpw_wc_download_log": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "vpw_wc_product_meta_lookup": {
+                "Case": 0,
+                "Rows": "44",
+                "Size": "112KB",
+                "USize": 114688
+            },
+            "vpw_wc_tax_rate_classes": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "vpw_wc_webhooks": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "vpw_woocommerce_api_keys": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "vpw_woocommerce_attribute_taxonomies": {
+                "Case": 0,
+                "Rows": "6",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "vpw_woocommerce_downloadable_product_permissions": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "80KB",
+                "USize": 81920
+            },
+            "vpw_woocommerce_log": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "vpw_woocommerce_order_itemmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "vpw_woocommerce_order_items": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "vpw_woocommerce_payment_tokenmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "vpw_woocommerce_payment_tokens": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "vpw_woocommerce_sessions": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "vpw_woocommerce_shipping_zone_locations": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "vpw_woocommerce_shipping_zone_methods": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "vpw_woocommerce_shipping_zones": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "vpw_woocommerce_tax_rate_locations": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "vpw_woocommerce_tax_rates": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "80KB",
+                "USize": 81920
+            }
+        }
+    },
+    "Status": 1
+}

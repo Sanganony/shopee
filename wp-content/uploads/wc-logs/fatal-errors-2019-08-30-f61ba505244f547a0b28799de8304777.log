@@ -1,0 +1,8 @@
+2019-08-30T11:57:17+00:00 CRITICAL Class 'WP_Bootstrap_Navwalker' not found in D:\xampp\htdocs\webkhach\mtgamezone.com\wp-content\themes\vpw_theme\header.php on line 58
+
+2019-08-30T11:57:47+00:00 CRITICAL Class 'WP_Bootstrap_Navwalker' not found in D:\xampp\htdocs\webkhach\mtgamezone.com\wp-content\themes\vpw_theme\header.php on line 58
+
+2019-08-30T14:42:44+00:00 CRITICAL Cannot redeclare class banner in D:\xampp\htdocs\webkhach\mtgamezone.com\wp-content\themes\vpw_theme\inc\widget.php on line 341
+
+2019-08-30T14:42:45+00:00 CRITICAL Cannot redeclare class banner in D:\xampp\htdocs\webkhach\mtgamezone.com\wp-content\themes\vpw_theme\inc\widget.php on line 341
+

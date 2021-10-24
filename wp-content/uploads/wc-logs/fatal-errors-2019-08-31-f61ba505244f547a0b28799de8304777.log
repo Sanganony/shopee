@@ -1,0 +1,6 @@
+2019-08-31T01:38:15+00:00 CRITICAL syntax error, unexpected 'fwp' (T_STRING) in D:\xampp\htdocs\webkhach\mtgamezone.com\wp-content\themes\vpw_theme\inc\widget.php on line 414
+
+2019-08-31T08:29:43+00:00 CRITICAL Object of class WP_Error could not be converted to string in D:\xampp\htdocs\webkhach\mtgamezone.com\wp-content\themes\vpw_theme\inc\widget.php on line 108
+
+2019-08-31T10:44:37+00:00 CRITICAL Object of class WP_Error could not be converted to string in D:\xampp\htdocs\webkhach\mtgamezone.com\wp-content\themes\vpw_theme\functions.php on line 264
+

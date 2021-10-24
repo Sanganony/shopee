@@ -1,0 +1,4 @@
+2019-10-15T02:01:39+00:00 CRITICAL Call to a member function have_posts() on null in D:\xampp\htdocs\du-an-chi\vailaubaotay.com.vn\wp-content\themes\vpw_theme\archive.php on line 19
+
+2019-10-15T03:36:25+00:00 CRITICAL syntax error, unexpected ')' in D:\xampp\htdocs\du-an-chi\vailaubaotay.com.vn\wp-content\themes\vpw_theme\header.php on line 100
+

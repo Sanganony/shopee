@@ -1,0 +1,10 @@
+2019-11-23T03:06:32+00:00 CRITICAL Call to a member function get_price() on null in D:\xampp\htdocs\du-an-binh\mayloc.ninhbinhweb.com\wp-content\themes\vpw_theme\woocommerce\single-product\price.php on line 35
+
+2019-11-23T03:08:55+00:00 CRITICAL Call to a member function get_price() on null in D:\xampp\htdocs\du-an-binh\mayloc.ninhbinhweb.com\wp-content\themes\vpw_theme\woocommerce\single-product\price.php on line 35
+
+2019-11-23T03:12:44+00:00 CRITICAL Call to a member function get_price() on null in D:\xampp\htdocs\du-an-binh\mayloc.ninhbinhweb.com\wp-content\themes\vpw_theme\woocommerce\single-product\price.php on line 35
+
+2019-11-23T03:20:37+00:00 CRITICAL Call to a member function get_price() on null in D:\xampp\htdocs\du-an-binh\mayloc.ninhbinhweb.com\wp-content\themes\vpw_theme\woocommerce\content-single-product.php on line 142
+
+2019-11-23T03:20:42+00:00 CRITICAL Call to a member function get_price() on null in D:\xampp\htdocs\du-an-binh\mayloc.ninhbinhweb.com\wp-content\themes\vpw_theme\woocommerce\content-single-product.php on line 142
+

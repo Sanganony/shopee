@@ -1,0 +1,36 @@
+2020-02-11T01:08:57+00:00 CRITICAL Cannot redeclare wc_refresh_mini_cart_count() (previously declared in D:\xampp\htdocs\webkhach\vidia.com.vn\wp-content\themes\vpw_theme\functions.php:399) in D:\xampp\htdocs\webkhach\vidia.com.vn\wp-content\themes\vpw_theme\functions.php on line 436
+
+2020-02-11T01:15:11+00:00 CRITICAL Object of class WP_Error could not be converted to string in D:\xampp\htdocs\webkhach\vidia.com.vn\wp-content\themes\vpw_theme\inc\widget.php on line 144
+
+2020-02-11T01:15:54+00:00 CRITICAL Object of class WP_Error could not be converted to string in D:\xampp\htdocs\webkhach\vidia.com.vn\wp-content\themes\vpw_theme\inc\widget.php on line 144
+
+2020-02-11T01:16:58+00:00 CRITICAL Object of class WP_Error could not be converted to string in D:\xampp\htdocs\webkhach\vidia.com.vn\wp-content\themes\vpw_theme\inc\widget.php on line 144
+
+2020-02-11T01:55:48+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF) in D:\xampp\htdocs\webkhach\vidia.com.vn\wp-content\themes\vpw_theme\inc\widget.php on line 102
+
+2020-02-11T01:55:49+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF) in D:\xampp\htdocs\webkhach\vidia.com.vn\wp-content\themes\vpw_theme\inc\widget.php on line 102
+
+2020-02-11T01:55:50+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF) in D:\xampp\htdocs\webkhach\vidia.com.vn\wp-content\themes\vpw_theme\inc\widget.php on line 102
+
+2020-02-11T04:10:56+00:00 CRITICAL syntax error, unexpected '}' in D:\xampp\htdocs\webkhach\vidia.com.vn\wp-content\themes\vpw_theme\inc\widget.php on line 678
+
+2020-02-11T04:30:32+00:00 CRITICAL Object of class WP_Term could not be converted to string in D:\xampp\htdocs\webkhach\vidia.com.vn\wp-includes\class-wp-query.php on line 763
+
+2020-02-11T04:30:35+00:00 CRITICAL Object of class WP_Term could not be converted to string in D:\xampp\htdocs\webkhach\vidia.com.vn\wp-includes\class-wp-query.php on line 763
+
+2020-02-11T04:30:52+00:00 CRITICAL Object of class WP_Term could not be converted to string in D:\xampp\htdocs\webkhach\vidia.com.vn\wp-includes\class-wp-query.php on line 763
+
+2020-02-11T04:31:25+00:00 CRITICAL Object of class WP_Term could not be converted to string in D:\xampp\htdocs\webkhach\vidia.com.vn\wp-includes\class-wp-query.php on line 763
+
+2020-02-11T04:31:26+00:00 CRITICAL Object of class WP_Term could not be converted to string in D:\xampp\htdocs\webkhach\vidia.com.vn\wp-includes\class-wp-query.php on line 763
+
+2020-02-11T04:31:35+00:00 CRITICAL Object of class WP_Term could not be converted to string in D:\xampp\htdocs\webkhach\vidia.com.vn\wp-includes\class-wp-query.php on line 763
+
+2020-02-11T04:32:05+00:00 CRITICAL Object of class WP_Term could not be converted to string in D:\xampp\htdocs\webkhach\vidia.com.vn\wp-includes\class-wp-query.php on line 763
+
+2020-02-11T04:32:16+00:00 CRITICAL Object of class WP_Term could not be converted to string in D:\xampp\htdocs\webkhach\vidia.com.vn\wp-includes\class-wp-query.php on line 763
+
+2020-02-11T04:33:23+00:00 CRITICAL Object of class WP_Term could not be converted to string in D:\xampp\htdocs\webkhach\vidia.com.vn\wp-includes\class-wp-query.php on line 763
+
+2020-02-11T04:33:50+00:00 CRITICAL Object of class WP_Term could not be converted to string in D:\xampp\htdocs\webkhach\vidia.com.vn\wp-includes\class-wp-query.php on line 763
+
